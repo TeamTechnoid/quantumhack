@@ -13,6 +13,10 @@ Complete practical(Production) build is still under development
 
 ### [Watch demo video here 📺](https://www.youtube.com/watch?v=xCs4TxIH33Y&feature=youtu.be)
 
+view mobile application snapshots [here](https://drive.google.com/drive/folders/1SLhnr3sUOK8Cx0WNI2DUHvVD3D81OC-w?usp=sharing)
+
+view web application snapshots [here](https://drive.google.com/drive/folders/1ROlVGtfjnPuQCMlvQUZONOvCMG3cN0nC?usp=sharing)
+
 ## 📌 Inspiration
 
 COVID-19 has been here all across the globe since the past 7-8 months. Currently we have more than 20 million cases across the globe. With a vaccine still a long way away, the only solution is to stay home and work from home to be safe. Government has also informed us not to visit hospitals until an emergency occurs.
